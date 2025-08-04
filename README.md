@@ -1,5 +1,5 @@
-## Python_Task
-# 🔍 What this script does
+# Python_Task
+## 🔍 What this script does
 It shows you a menu:
 1.Add 2.Sub 3.Mul 4.Div 5.Exit
 
@@ -21,12 +21,12 @@ It calculates and shows the result.
 
 It keeps repeating until you choose 5 (Exit).
 
-# ▶️ How to Run:
+## ▶️ How to Run:
 Save this code as calculator.py
 
 Open terminal/command prompt
 
-# Run:
+## Run:
 
 bash
 Copy
